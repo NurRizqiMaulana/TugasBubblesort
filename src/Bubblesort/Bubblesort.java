@@ -1,5 +1,7 @@
 package Bubblesort;
 
+// Nama : Nur Rizqi Maulanna
+
 public class Bubblesort {
     private String [] data;
 
